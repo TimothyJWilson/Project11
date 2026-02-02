@@ -5,7 +5,7 @@ Stop typing CSS and start pasting it. This program will allow you to select CSS 
 
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/f3754dcb-4b44-4af3-a867-942577541f1b"/>
 
-<br>I'm a recreational programmer and my skills aren't perfect. I still have so much to learn. I only do this for fun, so please go easy on me. I'm current learning to use this platform and I will soon upload files. Thank you for your patience!
+<br>I'm a recreational programmer and my skills are far from perfect. I still have so much to learn. I only do this for fun, so please go easy on me. I'm current learning to use this platform and I will soon upload files. Thank you for your patience!
 
 
 
