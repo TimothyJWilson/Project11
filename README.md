@@ -1,5 +1,5 @@
 <h1 style="display: inline;"><img width="37" height="37" alt="image" src="https://github.com/user-attachments/assets/02f69ba8-9525-4e54-9d9e-987cd3aecb68" style="display:inline-block;"/>&nbsp;CSS Bookmark</h1>
-Stop typing CSS and start doing more. This program will allow you to select CSS values from a drop down menu and copies them to the clip board. Upon selecting values, additional values are available in the second drop down located to the right of main drop down. You can then just paste the values into your code.
+Stop typing CSS and start pasting it. This program will allow you to select CSS values from a drop down menu and copies them to the clip board. Upon selecting values, additional values are available in the second drop down located to the right of main drop down. You can then just paste the values into your code.
 <br><br>
 
 
